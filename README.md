@@ -14,4 +14,5 @@ The labels of our dataset is written in txt format. Each line of the txt file co
 
 The signal-to-interference-and-noise ratios are written in the xlsx file. The first column is the index of the image and the second column is the SINR of the image.
 The corresponding image without RFI is put in the folder 'clean'.
-** After the publication of the paper, the dataset will be made public. **
+
+**After the publication of the paper, the dataset will be made public.**
